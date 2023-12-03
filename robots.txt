@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://corporio.onrender.com/sitemap.xml
+Sitemap: https://jnsportwear.github.io/sitemap.xml
