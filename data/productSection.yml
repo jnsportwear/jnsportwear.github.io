@@ -1,0 +1,6 @@
+enable: true
+topTitle: Nuestros Productos
+title: |
+  ## Nuestros Últimos Productos
+  Estilo, calidad y variedad es lo que nos distingue
+_template: product_section_template

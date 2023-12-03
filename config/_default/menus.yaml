@@ -1,0 +1,35 @@
+main:
+  - name: Inicio
+    url: ""
+    weight: 1
+  # - name: Categorias
+  #   url: "#service"
+  #   weight: 2
+  # - name: Certificados
+  #   url: "#resume"
+  #   weight: 3
+  # - name: Sobre Nosotros
+  #   url: "#about"
+  #   weight: 4
+  - name: Productos
+    url: "#product"
+    weight: 5
+  # - name: Nuestros Clientes
+  #   url: "#testimonial"
+  #   weight: 6
+  # - name: Blog
+  #   url: "#blog"
+  #   weight: 7
+sitemap:
+  - name: Inicio
+    url: ""
+    weight: 1
+  - name: Contacto
+    url: "contact"
+    weight: 2
+  - name: Productos
+    url: "product"
+    weight: 3
+  - name: Blog
+    url: "blog"
+    weight: 4

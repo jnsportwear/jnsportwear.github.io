@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jnsportwear.github.io/sitemap.xml

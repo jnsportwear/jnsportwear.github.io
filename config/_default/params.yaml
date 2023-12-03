@@ -1,0 +1,95 @@
+titleSeparator: "-"
+titleAddition: Marca 100% mexicana
+description: >-
+  Somos una marca orgullosamente mexicana dedicada a la elaboracion y 
+  produccion de de ropa deportiva de alta calidad.
+images:
+  - favicon.ico
+ogLocale: en_US
+titleHome: JNSport
+twitterSite: "@gethyas"
+twitterCreator: "@henkverlinde"
+schemaType: Organization
+schemaName: Hyas
+schemaAuthor: Henk Verlinde
+schemaAuthorTwitter: "https://twitter.com/henkverlinde"
+schemaAuthorLinkedIn: "https://www.linkedin.com/in/henkverlinde/"
+schemaAuthorGitHub: "https://github.com/h-enk"
+schemaLocale: en-US
+schemaLogo: logo-hyas.png
+schemaLogoWidth: 512
+schemaLogoHeight: 512
+schemaImage: hyas.png
+schemaImageWidth: 1280
+schemaImageHeight: 640
+schemaTwitter: "https://twitter.com/gethyas"
+schemaLinkedIn: ""
+schemaGitHub: "https://github.com/h-enk/hyas"
+themeColor: "#3ac58d"
+landscapePhotoWidths:
+  - 900
+  - 800
+  - 700
+  - 600
+  - 500
+portraitPhotoWidths:
+  - 800
+  - 700
+  - 600
+  - 500
+lqipWidth: 20x
+smallLimit: "320"
+imageResponsive: true
+imageConvertTo: webp
+imageImageSizes:
+  - "480"
+  - "720"
+  - "1080"
+  - "1280"
+  - "1600"
+  - "2048"
+singleSize: false
+imageAddClass: img-fluid lazyload blur-up
+defaultImage: default-image.png
+fillImage: 1280x720 Center
+alert: false
+alertDismissable: true
+alertText: >-
+  Deliver web projects 10x faster. <a class="alert-link"
+  href="https://www.netlify.com/whitepaper/" target="_blank" rel="noopener">Get
+  the free enterprise paper →</a>
+blogPageURL: blog
+contactLink: contact
+copyright: All right reserved copyright © Helmani 2022
+footerLogo: images/site-navigation/logo.png
+footerContact:
+  topTitle: Informes
+  title: Acercate a nosotros
+  button: Contacto
+fabformURL: "https://fabform.io/f/JpTXRUa"
+googleAnalytics: YOUR GOOGLE ANALYTICS CODE
+logo: images/site-navigation/logo.png
+address:
+  address: "20 Piroozi, Sattar Khan, Tehran."
+  email: contacto@jnsport.com
+  openingHours: Abrimos de 08 am a 6 pm (Cerrado Sabados y Domingos)
+  phone: (+1) 55 11 11 11 11
+map:
+  APIkey: YOUR GOOGLE MAP API
+  latitude: "23.7783741"
+  longitude: "90.3746808"
+  pinImage: images/pin.png
+social:
+  - icon: fa-facebook-official
+    url: "https://www.facebook.com/"
+    weight: 1
+  - icon: fa-linkedin-square
+    url: "https://www.linkedin.com/"
+    weight: 2
+  - icon: fa-pinterest-square
+    url: "https://www.pinterest.com/"
+    weight: 3
+  - icon: fa-twitter-square
+    url: "https://twitter.com/"
+    weight: 4
+_template: parameters_template

@@ -1,0 +1,12 @@
+enable: true
+topTitle: Nosotros somos JNSports
+content: >
+  # 
+
+  Somos una marca orgullosamente mexicana dedicada a la elaboracion y produccion de de ropa deportiva de alta calidad.
+buttonName: Contacto
+buttonURL: contact
+image: images/hero/sudadera_inicio.jpg
+#videoThumb: images/hero/pistachios.jpg
+#videoURL: 'https://youtu.be/1-NOOoqlvfA'
+_template: hero_template
